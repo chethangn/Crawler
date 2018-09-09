@@ -1,1 +1,1 @@
-Images that are extracted are present here
+Images that are extracted are present in this folder and this text file serves as a location where the images needs to be saved
